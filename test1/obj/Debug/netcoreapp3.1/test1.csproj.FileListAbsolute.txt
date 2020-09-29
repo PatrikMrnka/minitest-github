@@ -1,0 +1,4 @@
+C:\Users\patmrnk019\source\repos\minitest-github\test1\obj\Debug\netcoreapp3.1\test1.csprojAssemblyReference.cache
+C:\Users\patmrnk019\source\repos\minitest-github\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+C:\Users\patmrnk019\source\repos\minitest-github\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+C:\Users\patmrnk019\source\repos\minitest-github\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
